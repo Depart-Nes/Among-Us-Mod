@@ -1,4 +1,4 @@
 # Among Us Mod
-English
-<a href="English">简体中文</a>
+简体中文
+<a href="#English">English/a>
 <a href="" name="English"></a>
