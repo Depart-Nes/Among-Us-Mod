@@ -1,5 +1,3 @@
-# Among Us Mod
-
 <a href="#English">English</a>
 
 <a href="#简体中文">简体中文</a>
